@@ -130,7 +130,7 @@ Para avaliar a evolução dos prompts, foi realizada uma comparação entre resp
 
 📌 Resposta da IA:
 
-***O apóstolo Paulo, originalmente chamado de **Saulo**, é considerado o maior líder, missionário e teólogo da história do cristianismo.
+O apóstolo Paulo, originalmente chamado de **Saulo**, é considerado o maior líder, missionário e teólogo da história do cristianismo.
 
 ### Origens e Formação
 Nascido em **Tarso** na Cilícia (atual Turquia) por volta do ano 5 d.C., Paulo era judeu da **tribo de Benjamim** e possuía a **cidadania romana por nascimento**, o que lhe conferia privilégios legais. Ele foi educado em Jerusalém sob a orientação do renomado rabino **Gamaliel**, tornando-se um fariseu zeloso e profundo conhecedor da tradição judaica e da filosofia helênica. Por profissão, ele era um **fabricante de tendas**.
@@ -151,7 +151,7 @@ Paulo é autor de **13 cartas** no Novo Testamento, que formam a base teológica
 ### Prisão e Morte
 Ao retornar a Jerusalém, foi preso após um tumulto no Templo. Como cidadão romano, **apelou para César**, sendo enviado a Roma para julgamento. No trajeto, sobreviveu a um **naufrágio na ilha de Malta**.
 
-Em Roma, passou dois anos em **prisão domiciliar**, pregando e escrevendo algumas de suas cartas mais famosas (como Efésios e Filipenses). Embora a Bíblia não relate sua morte, a tradição cristã afirma que ele foi libertado, viajou novamente e foi preso uma segunda vez sob o imperador **Nero**. Paulo foi finalmente **martirizado e decapitado em Roma** por volta do ano 67-68 d.C.. Em suas últimas palavras registradas, ele declarou: *"Combati o bom combate, acabei a carreira, guardei a fé"*.***
+Em Roma, passou dois anos em **prisão domiciliar**, pregando e escrevendo algumas de suas cartas mais famosas (como Efésios e Filipenses). Embora a Bíblia não relate sua morte, a tradição cristã afirma que ele foi libertado, viajou novamente e foi preso uma segunda vez sob o imperador **Nero**. Paulo foi finalmente **martirizado e decapitado em Roma** por volta do ano 67-68 d.C.. Em suas últimas palavras registradas, ele declarou: *"Combati o bom combate, acabei a carreira, guardei a fé"*.
 
 🔎 Problemas identificados:
 - Apesar de relativamente detalhada, a resposta não segue uma estrutura previamente definida, o que dificulta a organização do conteúdo para estudo;
@@ -166,7 +166,7 @@ Em Roma, passou dois anos em **prisão domiciliar**, pregando e escrevendo algum
 
 📌 Resposta da IA:
 
-***Com base nas fontes fornecidas, a vida do apóstolo Paulo pode ser estruturada da seguinte forma:
+Com base nas fontes fornecidas, a vida do apóstolo Paulo pode ser estruturada da seguinte forma:
 
 ### 1. Contexto Histórico
 Paulo, originalmente chamado de **Saulo**, nasceu por volta do ano 5 d.C. em **Tarso**, na Cilícia (atual Turquia). Ele era um judeu da **tribo de Benjamim**, "hebreu de hebreus", e pertencia à seita rigorosa dos **fariseus**. Além de sua linhagem judaica, Paulo possuía a **cidadania romana por nascimento**, um privilégio raro na época que lhe garantia direitos legais específicos, como o de não ser açoitado sem julgamento e o de apelar para César.
@@ -196,7 +196,7 @@ A teologia de Paulo, extraída de suas 13 epístolas, é a base da tradição pr
 *   **Soberania e Suficiência de Deus:** Segundo a perspectiva protestante, a vida de Paulo ensina que a "suficiência vem de Deus" (Nova Aliança), em contraste com a ideia de que a salvação depende do esforço humano.
 *   **Cristocentrismo (Solus Christus):** O núcleo do evangelho paulino é a proclamação de que **"Jesus Cristo é o Senhor"** e que sua morte e ressurreição são o cumprimento das promessas de Deus.
 *   **A Igreja como Corpo de Cristo:** Paulo ensinou a unidade entre judeus e gentios, formando um só povo em Cristo, onde barreiras étnicas e sociais foram derrubadas.
-*   **Ética e Santificação:** Embora a salvação seja pela fé, Paulo insiste em uma vida transformada pelo Espírito Santo, onde as obras são o fruto e a evidência da salvação, e não a sua causa.***
+*   **Ética e Santificação:** Embora a salvação seja pela fé, Paulo insiste em uma vida transformada pelo Espírito Santo, onde as obras são o fruto e a evidência da salvação, e não a sua causa.
 
 ✅ Melhorias observadas:
 - Estrutura clara e organizada, seguindo exatamente os tópicos definidos no prompt (contexto histórico, conversão, viagens e teologia);
@@ -228,8 +228,55 @@ A teologia de Paulo, extraída de suas 13 epístolas, é a base da tradição pr
 
 ## 📘 Miniguia de Estudo
 
+Este miniguia consolida os principais aprendizados sobre a vida, missões e ensinamentos do apóstolo Paulo, com base nas fontes selecionadas e no uso estruturado de IA.
+
 ### 🧾 Resumo Estruturado
+
+#### 📍 1. Contexto Histórico
+Paulo, originalmente chamado Saulo, nasceu em Tarso (Cilícia) por volta de 5 d.C. Era judeu da tribo de Benjamim, fariseu e cidadão romano. Recebeu formação religiosa em Jerusalém sob Gamaliel, destacando-se como profundo conhecedor da Lei.
+
+#### ✨ 2. Conversão
+Inicialmente perseguidor dos cristãos, teve uma experiência marcante com Jesus no caminho de Damasco. Após ficar cego por três dias, foi curado por Ananias, batizado e passou a anunciar o evangelho.
+
+#### 🌍 3. Viagens Missionárias
+Paulo realizou três grandes viagens missionárias:
+
+- Primeira: Chipre e Galácia (com Barnabé);
+- Segunda: Expansão para a Europa (Filipos, Tessalônica, Corinto);
+- Terceira: Ênfase em Éfeso;
+
+Enfrentou perseguições, prisões e dificuldades, mantendo-se firme na missão de pregar aos gentios.
+
+#### 📖 4. Ensinamentos Teológicos
+
+- Justificação pela fé: a salvação não vem pelas obras, mas pela fé em Cristo;
+- Graça: a salvação é um dom de Deus;
+- Centralidade de Cristo: Jesus como Senhor e salvador;
+- Unidade da Igreja: judeus e gentios formam um só corpo;
+- Vida transformada: a fé produz frutos na vida prática.
 
 ### 📖 Glossário
 
+- Justificação: ato de Deus declarar o pecador justo pela fé;
+- Graça: favor imerecido de Deus;
+- Fé: confiança em Cristo para salvação;
+- Gentios: não judeus;
+- Lei: conjunto de normas do Antigo Testamento;
+- Igreja: comunidade dos seguidores de Cristo;
+- Santificação: processo de transformação espiritual.
+
 ### 🔁 Prompts Reutilizáveis
+
+1. "Explique de forma estruturada a vida do apóstolo Paulo com base na Bíblia."
+2. "Quais são os principais ensinamentos teológicos de Paulo segundo a perspectiva protestante?"
+3. "Resuma as viagens missionárias de Paulo destacando os principais acontecimentos."
+4. "Explique o conceito de justificação pela fé com base nas cartas de Paulo."
+5. "Apresente aplicações práticas dos ensinamentos de Paulo para a vida cristã atual."
+
+### 🎯 Aplicação do Miniguia
+
+Este material pode ser utilizado para:
+- Revisão rápida do conteúdo estudado;
+- Apoio em estudos bíblicos;
+- Base para novos prompts no NotebookLM;
+- Consolidação de aprendizado com apoio de IA.
