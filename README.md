@@ -1,7 +1,19 @@
 # paul-theology-notebooklm
 
+# 📖 Estudo do Apóstolo Paulo com IA (NotebookLM)
+
 "Vida, Missões e Teologia do Apóstolo Paulo sob a Perspectiva Protestante"
 Repositório com caderno temático desenvolvido no NotebookLM sobre a vida, missões e ensinamentos do apóstolo Paulo sob a perspectiva protestante. Inclui curadoria de fontes, engenharia de prompts e um miniguia estruturado para estudo.
+
+Projeto prático que demonstra o uso de Inteligência Artificial como ferramenta de aprendizagem ativa, utilizando curadoria de fontes, engenharia de prompts e análise crítica para construção de um miniguia estruturado.
+
+🚀 Destaques:
+- Curadoria validada na prática com NotebookLM
+- Engenharia de prompts com evolução documentada
+- Comparação real entre respostas (antes vs depois)
+- Miniguia estruturado com aplicação prática
+
+---
 
 ## 📌 Contexto e Objetivos
 Este projeto tem como objetivo a construção de um caderno temático estruturado sobre a vida, missões e ensinamentos do apóstolo Paulo, com base na perspectiva do evangelho protestante, utilizando o NotebookLM como ferramenta de apoio à aprendizagem ativa.
@@ -18,6 +30,8 @@ Objetivos específicos:
 - Documentar o processo de interação com a IA, incluindo ajustes, dificuldades e melhorias (cicatrizes de aprendizado).
 
 Este projeto também tem como finalidade demonstrar, de forma prática, o uso da IA como ferramenta estratégica de estudo, indo além de respostas prontas e evidenciando o raciocínio por trás da construção do conhecimento.
+
+---
 
 ## 📚 Curadoria de Fontes
 Além das fontes tradicionais em texto e PDF, este projeto também utiliza conteúdos em múltiplos formatos — incluindo sites, artigos acadêmicos e vídeos — ampliando a capacidade de análise e síntese por meio do NotebookLM.
@@ -60,7 +74,6 @@ https://estiloadoracao.com/historia-do-apostolo-paulo/
 9. Quem foi o Apóstolo Paulo? – Respostas.com.br  
 https://www.respostas.com.br/apostolo-paulo/  
 ✔ Introdução resumida ao tema
-
 
 ### 🎥 Fontes de Vídeo (YouTube)
 1. Série de Estudos sobre o Apóstolo Paulo (Playlist)  
@@ -117,6 +130,8 @@ Além disso, buscou-se equilibrar fontes de caráter bíblico, teológico e intr
 
 Por fim, as fontes foram organizadas estrategicamente para uso progressivo no NotebookLM, priorizando inicialmente a base bíblica, seguida por conteúdos teológicos e, posteriormente, materiais complementares, evitando sobrecarga de contexto e melhorando a precisão das respostas geradas pela IA.
 
+---
+
 ## 🤖 Engenharia de Prompts e "Cicatrizes"
 Durante o desenvolvimento deste projeto, foram realizados diversos testes com prompts no NotebookLM, com o objetivo de melhorar a qualidade, profundidade e confiabilidade das respostas geradas pela IA.
 
@@ -152,6 +167,9 @@ Paulo é autor de **13 cartas** no Novo Testamento, que formam a base teológica
 Ao retornar a Jerusalém, foi preso após um tumulto no Templo. Como cidadão romano, **apelou para César**, sendo enviado a Roma para julgamento. No trajeto, sobreviveu a um **naufrágio na ilha de Malta**.
 
 Em Roma, passou dois anos em **prisão domiciliar**, pregando e escrevendo algumas de suas cartas mais famosas (como Efésios e Filipenses). Embora a Bíblia não relate sua morte, a tradição cristã afirma que ele foi libertado, viajou novamente e foi preso uma segunda vez sob o imperador **Nero**. Paulo foi finalmente **martirizado e decapitado em Roma** por volta do ano 67-68 d.C.. Em suas últimas palavras registradas, ele declarou: *"Combati o bom combate, acabei a carreira, guardei a fé"*.
+
+### 📸 Evidência prática (prompt genérico)
+<img width="960" height="476" alt="image" src="https://github.com/user-attachments/assets/4b63ad2a-db57-44ca-9aec-81786266feb5" />
 
 🔎 Problemas identificados:
 - Apesar de relativamente detalhada, a resposta não segue uma estrutura previamente definida, o que dificulta a organização do conteúdo para estudo;
@@ -197,6 +215,9 @@ A teologia de Paulo, extraída de suas 13 epístolas, é a base da tradição pr
 *   **Cristocentrismo (Solus Christus):** O núcleo do evangelho paulino é a proclamação de que **"Jesus Cristo é o Senhor"** e que sua morte e ressurreição são o cumprimento das promessas de Deus.
 *   **A Igreja como Corpo de Cristo:** Paulo ensinou a unidade entre judeus e gentios, formando um só povo em Cristo, onde barreiras étnicas e sociais foram derrubadas.
 *   **Ética e Santificação:** Embora a salvação seja pela fé, Paulo insiste em uma vida transformada pelo Espírito Santo, onde as obras são o fruto e a evidência da salvação, e não a sua causa.
+
+### 📸 Evidência prática (prompt refinado)
+<img width="960" height="475" alt="image" src="https://github.com/user-attachments/assets/ec0cf65c-542c-4390-81a3-325d5209deab" />
 
 ✅ Melhorias observadas:
 - Estrutura clara e organizada, seguindo exatamente os tópicos definidos no prompt (contexto histórico, conversão, viagens e teologia);
@@ -327,3 +348,23 @@ Este material pode ser utilizado para:
 - Apoio em estudos bíblicos;
 - Geração de novos prompts no NotebookLM;
 - Consolidação de aprendizado com IA.
+
+---
+
+## 💼 Aplicação Profissional
+
+Este projeto demonstra habilidades aplicáveis ao mercado, como:
+
+- Análise e validação de informações
+- Estruturação de conhecimento
+- Engenharia de prompts
+- Uso estratégico de IA para resolução de problemas
+- Pensamento crítico aplicado a ferramentas digitais
+
+---
+
+## 🧠 Aprendizado Pessoal
+
+Durante o desenvolvimento, percebi que o uso de IA não está em obter respostas prontas, mas em saber fazer as perguntas certas e controlar o formato das respostas.
+
+Esse projeto marcou uma mudança na forma como utilizo IA para estudo e análise.
