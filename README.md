@@ -247,6 +247,8 @@ A teologia de Paulo, extraída de suas 13 epístolas, é a base da tradição pr
 - Validação crítica das respostas, separando qualidade textual de utilidade prática;
 - Utilização da Bíblia como principal referência para verificação de consistência.
 
+---
+
 ## 📘 Miniguia de Estudo
 
 Este miniguia consolida os principais aprendizados sobre a vida, missões e ensinamentos do apóstolo Paulo, com base nas fontes selecionadas e no uso estruturado de IA.
@@ -258,12 +260,8 @@ Este miniguia consolida os principais aprendizados sobre a vida, missões e ensi
 #### 📍 1. Contexto Histórico
 Paulo, originalmente chamado Saulo, nasceu em Tarso (Cilícia) por volta de 5 d.C. Era judeu da tribo de Benjamim, fariseu e cidadão romano. Recebeu formação em Jerusalém sob Gamaliel, destacando-se como profundo conhecedor da Lei.
 
----
-
 #### ✨ 2. Conversão
 Inicialmente perseguidor dos cristãos, teve um encontro com Jesus no caminho de Damasco, que transformou completamente sua vida. Após esse evento, passou de perseguidor a pregador do evangelho.
-
----
 
 #### 🌍 3. Viagens Missionárias
 - Primeira viagem: Chipre e Galácia;
@@ -272,17 +270,12 @@ Inicialmente perseguidor dos cristãos, teve um encontro com Jesus no caminho de
 
 Mesmo diante de perseguições, Paulo manteve sua missão de levar o evangelho aos gentios.
 
----
-
 #### 📖 4. Ensinamentos Teológicos
-
 - Justificação pela fé → salvação não depende de obras;
 - Graça → favor imerecido de Deus;
 - Cristocentrismo → Cristo como centro da salvação;
 - Unidade da Igreja → um só povo em Cristo;
 - Vida transformada → evidência prática da fé.
-
----
 
 ### 📜 Versículos-Chave
 
@@ -300,8 +293,6 @@ Mesmo diante de perseguições, Paulo manteve sua missão de levar o evangelho a
 
 - 2 Timóteo 4:7  
 "Combati o bom combate, completei a carreira, guardei a fé."
-
----
 
 ### 🕰️ Linha do Tempo Resumida
 
