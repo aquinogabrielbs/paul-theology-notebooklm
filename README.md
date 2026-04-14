@@ -132,12 +132,23 @@ https://www.youtube.com/watch?v=Y5tHHpgoY7c
 9. Estudo Bíblico – Cartas Paulinas  
 https://www.youtube.com/watch?v=8ik97WNwq6g
 
-## 📌 Observações de Curadoria
+### 📌 Observações de Curadoria
 
-- A Bíblia foi utilizada como fonte central para validação de todas as informações;
-- Os conteúdos foram selecionados com base em confiabilidade teológica e relevância histórica;
-- O uso de múltiplos formatos (texto, vídeo e artigo acadêmico) permitiu enriquecer a análise e melhorar a qualidade das respostas geradas pela IA;
-- Todo o material foi pensado para integração eficiente com o NotebookLM.
+As fontes utilizadas neste projeto foram selecionadas com base em critérios de confiabilidade, acessibilidade e relevância teológica, mantendo a Bíblia como principal referência para validação de todo o conteúdo.
+
+Durante o processo de curadoria, foram utilizados diferentes tipos de materiais, incluindo:
+- Sites e portais teológicos;
+- Artigos acadêmicos e conteúdos estruturados;
+- Materiais em PDF (como Bíblias de estudo);
+- Conteúdos audiovisuais (vídeos do YouTube).
+
+Inicialmente, algumas fontes apresentaram problemas como indisponibilidade, acesso restrito ou inconsistência de conteúdo. Esses materiais foram revisados, validados manualmente e, quando necessário, substituídos por alternativas mais estáveis e acessíveis.
+
+Também foram identificadas duplicidades e redundâncias, que foram tratadas por meio de consolidação e reorganização das fontes, garantindo maior clareza e eficiência no uso dentro do NotebookLM.
+
+Outro ponto considerado foi o equilíbrio teológico: embora haja predominância de fontes de linha protestante reformada (como The Gospel Coalition e Monergism), buscou-se manter uma base bíblica sólida como critério principal de validação, reduzindo possíveis vieses interpretativos.
+
+Por fim, as fontes foram organizadas estrategicamente para uso progressivo no NotebookLM, priorizando primeiro a base bíblica, seguida por materiais teológicos e, posteriormente, conteúdos complementares, evitando sobrecarga de contexto e melhorando a qualidade das respostas geradas pela IA.
 
 ## 🤖 Engenharia de Prompts e "Cicatrizes"
 
