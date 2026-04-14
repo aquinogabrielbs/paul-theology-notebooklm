@@ -253,8 +253,6 @@ A teologia de Paulo, extraída de suas 13 epístolas, é a base da tradição pr
 
 Este miniguia consolida os principais aprendizados sobre a vida, missões e ensinamentos do apóstolo Paulo, com base nas fontes selecionadas e no uso estruturado de IA.
 
----
-
 ### 🧾 Resumo Estruturado
 
 #### 📍 1. Contexto Histórico
