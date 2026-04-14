@@ -350,6 +350,8 @@ Este projeto demonstra habilidades aplicáveis ao mercado, como:
 - Uso estratégico de IA para resolução de problemas
 - Pensamento crítico aplicado a ferramentas digitais
 
+Essas competências são diretamente aplicáveis à atuação como Analista de Sistemas, especialmente na análise de dados, validação de informações e uso de IA para apoio à tomada de decisão.
+
 ---
 
 ## 🧠 Aprendizado Pessoal
@@ -357,3 +359,5 @@ Este projeto demonstra habilidades aplicáveis ao mercado, como:
 Durante o desenvolvimento, percebi que o uso de IA não está em obter respostas prontas, mas em saber fazer as perguntas certas e controlar o formato das respostas.
 
 Esse projeto marcou uma mudança na forma como utilizo IA para estudo e análise.
+
+Esse projeto reforçou a mudança de abordagem no uso de IA: de uma ferramenta de resposta para uma ferramenta de construção de conhecimento.
