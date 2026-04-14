@@ -39,69 +39,30 @@ https://www.biblegateway.com
 https://www.bibliaon.com/  
 ✔ Explicações acessíveis e didáticas
 
-4. Bíblia de Estudo Pentecostal (PDF completo)  
-https://yausha.com.br/wp-content/uploads/2023/12/Biblia-de-Estudo-Pentecostal.pdf  
-✔ Comentários teológicos estruturados
-
-5. GotQuestions (versão em português)  
+4. GotQuestions (versão em português)  
 https://www.gotquestions.org/Portugues/  
 ✔ Respostas objetivas sob perspectiva protestante
 
-6. Monergism  
-https://www.monergism.com  
-✔ Biblioteca reformada com conteúdos aprofundados
-
-7. Desiring God (John Piper)  
+5. Desiring God (John Piper)  
 https://www.desiringgod.org  
 ✔ Reflexões teológicas centradas no evangelho
 
-8. The Gospel Coalition (portal principal)  
-https://www.thegospelcoalition.org  
-✔ Plataforma teológica contemporânea
-
-9. New Perspectives on Paul – N.T. Wright  
+6. New Perspectives on Paul – N.T. Wright  
 https://ntwrightpage.com/2016/07/12/new-perspectives-on-paul/  
 ✔ Abordagem acadêmica sobre a teologia paulina
 
-10. Apóstolo Paulo – Wikipédia (visão geral histórica)  
+7. Apóstolo Paulo – Wikipédia (visão geral histórica)  
 https://pt.wikipedia.org/wiki/Paulo_de_Tarso  
 ✔ Contexto histórico inicial
 
-11. História do Apóstolo Paulo – Estilo Adoração  
+8. História do Apóstolo Paulo – Estilo Adoração  
 https://estiloadoracao.com/historia-do-apostolo-paulo/  
 ✔ Linha do tempo e narrativa histórica
 
-12. Quem foi o Apóstolo Paulo? – Respostas.com.br  
+9. Quem foi o Apóstolo Paulo? – Respostas.com.br  
 https://www.respostas.com.br/apostolo-paulo/  
 ✔ Introdução resumida ao tema
 
-13. The Moral Logic of the Apostle Paul – The Gospel Coalition  
-https://www.thegospelcoalition.org/blogs/trevin-wax/the-moral-logic-of-the-apostle-paul/  
-✔ Análise teológica aplicada
-
-14. The Triumph of Christ in Paul’s Life – The Gospel Coalition  
-https://www.thegospelcoalition.org/blogs/justin-taylor/the-triumphal-procession-in-christ-how-the-conquering-god-reveals-himself-by-leading-the-apostle-paul-to-his-death/?queryID=54b5191ee5c30a9a5e74d1d826baa69b  
-✔ Interpretação teológica da vida de Paulo
-
-15. What Is Wrong with Humanity? – Q&A com Paulo  
-https://www.thegospelcoalition.org/blogs/justin-taylor/a-qa-with-the-apostle-paul-on-whats-wrong-with-the-human-race-and-what-god-did-about-it/?queryID=54b5191ee5c30a9a5e74d1d826baa69b  
-✔ Reflexão sobre pecado e redenção
-
-16. What Is Wrong with Us? – Q&A com Paulo  
-https://www.thegospelcoalition.org/blogs/justin-taylor/a-qa-with-the-apostle-paul-on-what-is-wrong-with-us-and-what-can-be-done-about-it/?queryID=54b5191ee5c30a9a5e74d1d826baa69b  
-✔ Diagnóstico teológico da condição humana
-
-17. How to Interview the Apostle Paul Today  
-https://www.thegospelcoalition.org/blogs/justin-taylor/how-to-interview-the-apostle-paul-today/?queryID=54b5191ee5c30a9a5e74d1d826baa69b  
-✔ Aplicação contemporânea dos ensinamentos
-
-18. Apostle Paul and Digital Discipleship  
-https://www.thegospelcoalition.org/article/apostle-paul-digital-discipleship/?queryID=54b5191ee5c30a9a5e74d1d826baa69b  
-✔ Relação entre Paulo e discipulado moderno
-
-19. Paul and Leviticus 18:5 – Interpretação Teológica  
-https://www.thegospelcoalition.org/blogs/justin-taylor/turning-back-the-clock-of-salvation-history-how-the-apostle-paul-reads-leviticus-185/?queryID=54b5191ee5c30a9a5e74d1d826baa69b  
-✔ Interpretação bíblica aprofundada
 
 ### 🎥 Fontes de Vídeo (YouTube)
 
@@ -136,21 +97,95 @@ https://www.youtube.com/watch?v=8ik97WNwq6g
 
 As fontes utilizadas neste projeto foram selecionadas com base em critérios de confiabilidade, acessibilidade e relevância teológica, mantendo a Bíblia como principal referência para validação de todo o conteúdo.
 
-Durante o processo de curadoria, foram utilizados diferentes tipos de materiais, incluindo:
-- Sites e portais teológicos;
-- Artigos acadêmicos e conteúdos estruturados;
-- Materiais em PDF (como Bíblias de estudo);
-- Conteúdos audiovisuais (vídeos do YouTube).
+Durante o processo de curadoria, foram considerados diferentes tipos de materiais, incluindo sites, conteúdos teológicos, materiais explicativos e fontes acadêmicas.
 
-Inicialmente, algumas fontes apresentaram problemas como indisponibilidade, acesso restrito ou inconsistência de conteúdo. Esses materiais foram revisados, validados manualmente e, quando necessário, substituídos por alternativas mais estáveis e acessíveis.
+Inicialmente, uma lista mais ampla de fontes foi levantada. No entanto, durante a etapa prática de integração com o NotebookLM, diversas fontes apresentaram limitações técnicas, como falhas de carregamento, incompatibilidade com a ferramenta ou indisponibilidade de acesso.
 
-Também foram identificadas duplicidades e redundâncias, que foram tratadas por meio de consolidação e reorganização das fontes, garantindo maior clareza e eficiência no uso dentro do NotebookLM.
+Diante disso, foi realizada uma validação prática das fontes, resultando na seleção final apenas daquelas que funcionaram corretamente dentro do ambiente do NotebookLM. Esse critério garantiu maior eficiência na extração de informações e melhor qualidade nas respostas geradas pela IA.
 
-Outro ponto considerado foi o equilíbrio teológico: embora haja predominância de fontes de linha protestante reformada (como The Gospel Coalition e Monergism), buscou-se manter uma base bíblica sólida como critério principal de validação, reduzindo possíveis vieses interpretativos.
+As fontes de texto finais utilizadas foram:
 
-Por fim, as fontes foram organizadas estrategicamente para uso progressivo no NotebookLM, priorizando primeiro a base bíblica, seguida por materiais teológicos e, posteriormente, conteúdos complementares, evitando sobrecarga de contexto e melhorando a qualidade das respostas geradas pela IA.
+- Bíblia Online (traduções ARA e ACF)
+- Bible Gateway
+- Bíblia On
+- GotQuestions (Português)
+- Desiring God
+- New Perspectives on Paul – N.T. Wright
+- Wikipédia (Paulo de Tarso)
+- Estilo Adoração
+- Respostas.com.br
+
+Outro ponto relevante foi a eliminação de fontes redundantes e a priorização de conteúdos com maior clareza, estabilidade e compatibilidade técnica.
+
+Além disso, buscou-se equilibrar fontes de caráter bíblico, teológico e introdutório, permitindo uma visão mais completa do tema, ao mesmo tempo em que se manteve a Bíblia como critério principal de validação.
+
+Por fim, as fontes foram organizadas estrategicamente para uso progressivo no NotebookLM, priorizando inicialmente a base bíblica, seguida por conteúdos teológicos e, posteriormente, materiais complementares, evitando sobrecarga de contexto e melhorando a precisão das respostas geradas pela IA.
 
 ## 🤖 Engenharia de Prompts e "Cicatrizes"
+
+Durante o desenvolvimento deste projeto, foram realizados diversos testes com prompts no NotebookLM, com o objetivo de melhorar a qualidade, profundidade e confiabilidade das respostas geradas pela IA.
+
+O processo foi iterativo, envolvendo tentativas iniciais simples, identificação de falhas e refinamento progressivo dos prompts.
+
+### ❌ Prompt Inicial (Genérico)
+
+"Me fale sobre o apóstolo Paulo."
+
+🔎 Problemas identificados:
+- Respostas superficiais;
+- Falta de estrutura;
+- Mistura de informações históricas e teológicas sem organização;
+- Ausência de foco na perspectiva protestante.
+
+### ⚠️ Prompt Intermediário
+
+"Explique a vida e os ensinamentos do apóstolo Paulo com base na Bíblia."
+
+🔎 Melhorias:
+- Introdução de fonte base (Bíblia);
+
+⚠️ Limitações:
+- Ainda muito amplo;
+- Falta de direcionamento teológico específico;
+- Respostas extensas, porém pouco organizadas.
+
+### ✅ Prompt Avançado (Estruturado)
+
+"Com base nas fontes fornecidas, especialmente a Bíblia, descreva a vida do apóstolo Paulo dividindo em: (1) contexto histórico, (2) conversão, (3) viagens missionárias e (4) principais ensinamentos teológicos segundo a perspectiva protestante. Apresente de forma estruturada."
+
+✅ Resultados:
+- Respostas organizadas e completas;
+- Melhor separação entre história e teologia;
+- Maior clareza e utilidade para estudo;
+- Conteúdo mais alinhado com o objetivo do projeto.
+
+### 🔁 Iteração e Refinamento
+
+Prompt refinado:
+
+"Utilizando exclusivamente as fontes fornecidas no NotebookLM, apresente um resumo estruturado da vida e dos ensinamentos do apóstolo Paulo. Destaque: (1) eventos históricos principais, (2) doutrinas centrais (graça, fé, justificação), (3) aplicações práticas para a vida cristã. Evite generalizações e priorize fidelidade bíblica."
+
+✅ Melhorias observadas:
+- Redução de respostas genéricas;
+- Maior precisão nas informações;
+- Melhor alinhamento com as fontes;
+- Inclusão de aplicações práticas.
+
+### 🧠 Principais Aprendizados (Cicatrizes)
+
+- Prompts genéricos geram respostas superficiais;
+- Quanto mais contexto e restrições, melhor a qualidade da resposta;
+- Especificar estrutura melhora significativamente a organização do conteúdo;
+- Direcionar a fonte (ex: "usar apenas as fontes fornecidas") aumenta a confiabilidade;
+- A iteração é essencial para alcançar respostas mais precisas e úteis.
+
+### 📌 Estratégias Utilizadas
+
+- Definição clara do objetivo antes de perguntar;
+- Uso de prompts estruturados (com tópicos);
+- Restrição de fontes para evitar inconsistências;
+- Refinamento contínuo com base nos resultados obtidos;
+- Validação das respostas com a Bíblia como referência principal.
 
 ## 📘 Miniguia de Estudo
 
