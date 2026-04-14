@@ -230,53 +230,100 @@ A teologia de Paulo, extraída de suas 13 epístolas, é a base da tradição pr
 
 Este miniguia consolida os principais aprendizados sobre a vida, missões e ensinamentos do apóstolo Paulo, com base nas fontes selecionadas e no uso estruturado de IA.
 
+---
+
 ### 🧾 Resumo Estruturado
 
 #### 📍 1. Contexto Histórico
-Paulo, originalmente chamado Saulo, nasceu em Tarso (Cilícia) por volta de 5 d.C. Era judeu da tribo de Benjamim, fariseu e cidadão romano. Recebeu formação religiosa em Jerusalém sob Gamaliel, destacando-se como profundo conhecedor da Lei.
+Paulo, originalmente chamado Saulo, nasceu em Tarso (Cilícia) por volta de 5 d.C. Era judeu da tribo de Benjamim, fariseu e cidadão romano. Recebeu formação em Jerusalém sob Gamaliel, destacando-se como profundo conhecedor da Lei.
+
+---
 
 #### ✨ 2. Conversão
-Inicialmente perseguidor dos cristãos, teve uma experiência marcante com Jesus no caminho de Damasco. Após ficar cego por três dias, foi curado por Ananias, batizado e passou a anunciar o evangelho.
+Inicialmente perseguidor dos cristãos, teve um encontro com Jesus no caminho de Damasco, que transformou completamente sua vida. Após esse evento, passou de perseguidor a pregador do evangelho.
+
+---
 
 #### 🌍 3. Viagens Missionárias
-Paulo realizou três grandes viagens missionárias:
+- Primeira viagem: Chipre e Galácia;
+- Segunda viagem: Macedônia e Grécia (entrada na Europa);
+- Terceira viagem: Éfeso e consolidação das igrejas;
 
-- Primeira: Chipre e Galácia (com Barnabé);
-- Segunda: Expansão para a Europa (Filipos, Tessalônica, Corinto);
-- Terceira: Ênfase em Éfeso;
+Mesmo diante de perseguições, Paulo manteve sua missão de levar o evangelho aos gentios.
 
-Enfrentou perseguições, prisões e dificuldades, mantendo-se firme na missão de pregar aos gentios.
+---
 
 #### 📖 4. Ensinamentos Teológicos
 
-- Justificação pela fé: a salvação não vem pelas obras, mas pela fé em Cristo;
-- Graça: a salvação é um dom de Deus;
-- Centralidade de Cristo: Jesus como Senhor e salvador;
-- Unidade da Igreja: judeus e gentios formam um só corpo;
-- Vida transformada: a fé produz frutos na vida prática.
+- Justificação pela fé → salvação não depende de obras;
+- Graça → favor imerecido de Deus;
+- Cristocentrismo → Cristo como centro da salvação;
+- Unidade da Igreja → um só povo em Cristo;
+- Vida transformada → evidência prática da fé.
+
+---
+
+### 📜 Versículos-Chave
+
+- Romanos 1:16  
+"Porque não me envergonho do evangelho, pois é o poder de Deus para salvação..."
+
+- Efésios 2:8-9  
+"Porque pela graça sois salvos, mediante a fé..."
+
+- Gálatas 2:16  
+"O homem não é justificado por obras da lei, e sim mediante a fé em Cristo..."
+
+- Filipenses 1:21  
+"Porque para mim o viver é Cristo, e o morrer é lucro."
+
+- 2 Timóteo 4:7  
+"Combati o bom combate, completei a carreira, guardei a fé."
+
+---
+
+### 🕰️ Linha do Tempo Resumida
+
+- ~5 d.C. → Nascimento em Tarso  
+- ~34-36 d.C. → Conversão (caminho de Damasco)  
+- 46-48 d.C. → Primeira viagem missionária  
+- 50-52 d.C. → Segunda viagem missionária  
+- 54-58 d.C. → Terceira viagem missionária  
+- ~60-62 d.C. → Prisão em Roma  
+- ~67-68 d.C. → Martírio (segundo a tradição cristã)
+
+---
 
 ### 📖 Glossário
 
-- Justificação: ato de Deus declarar o pecador justo pela fé;
+- Justificação: declaração de justiça pela fé;
 - Graça: favor imerecido de Deus;
-- Fé: confiança em Cristo para salvação;
+- Fé: confiança em Cristo;
 - Gentios: não judeus;
-- Lei: conjunto de normas do Antigo Testamento;
-- Igreja: comunidade dos seguidores de Cristo;
-- Santificação: processo de transformação espiritual.
+- Lei: normas do Antigo Testamento;
+- Igreja: corpo de Cristo;
+- Santificação: transformação espiritual contínua.
 
-### 🔁 Prompts Reutilizáveis
+---
 
-1. "Explique de forma estruturada a vida do apóstolo Paulo com base na Bíblia."
-2. "Quais são os principais ensinamentos teológicos de Paulo segundo a perspectiva protestante?"
-3. "Resuma as viagens missionárias de Paulo destacando os principais acontecimentos."
-4. "Explique o conceito de justificação pela fé com base nas cartas de Paulo."
-5. "Apresente aplicações práticas dos ensinamentos de Paulo para a vida cristã atual."
+### 🔁 Prompts Reutilizáveis (Avançados)
+
+1. "Com base exclusivamente nas fontes fornecidas, explique a vida do apóstolo Paulo de forma estruturada, separando contexto histórico, conversão, viagens e teologia, citando referências bíblicas quando possível."
+
+2. "Analise os principais ensinamentos teológicos de Paulo (graça, fé e justificação), apresentando definição, base bíblica e aplicação prática."
+
+3. "Construa uma linha do tempo detalhada da vida de Paulo, incluindo eventos, locais e impacto no cristianismo."
+
+4. "Compare a vida de Paulo antes e depois da conversão, destacando mudanças comportamentais, teológicas e missionárias."
+
+5. "Explique como os ensinamentos de Paulo podem ser aplicados na vida cristã atual, com base nas cartas paulinas."
+
+---
 
 ### 🎯 Aplicação do Miniguia
 
 Este material pode ser utilizado para:
-- Revisão rápida do conteúdo estudado;
+- Revisão estruturada do conteúdo;
 - Apoio em estudos bíblicos;
-- Base para novos prompts no NotebookLM;
-- Consolidação de aprendizado com apoio de IA.
+- Geração de novos prompts no NotebookLM;
+- Consolidação de aprendizado com IA.
